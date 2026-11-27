@@ -4,6 +4,8 @@
 - RA: 202410152
 - Aluno(a): Eduardo Henrique Taborda e Silva
 - RA: 202410018
+- Aluno(a): Leonardo Zamperlini de Oliveira
+- RA: 202410048
 - Turma: Ciencia da Computação - 6º semestre.
 
 ## De onde vem cada dado

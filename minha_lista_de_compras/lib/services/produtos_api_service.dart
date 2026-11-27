@@ -5,7 +5,7 @@ import '../models/produto_remoto.dart';
 class ProdutosApiService {
   Future<List<ProdutoRemoto>> buscarProdutos() async {
     final url = Uri.parse(
-      'https://dummyjson.com/products?limit=5',
+      'https://dummyjson.com/products?limit=20',
     );
 
     // timeout impede uma espera indefinida.
