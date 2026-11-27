@@ -38,7 +38,7 @@ A permissão de internet já está no `android/app/src/main/AndroidManifest.xml`
 
 **Captura 1: catálogo com cinco produtos**
 
-![alt text](image-1.png)
+![alt text](image.png)
 
 **Captura 2: mensagem de erro sem conexão**
 
