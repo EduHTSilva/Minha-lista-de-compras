@@ -72,7 +72,7 @@ Fórmulas usadas: subtotal 1 = 3 × 9,99 = 29,97; subtotal 2 = 1 × 19,99 = 19,9
 Aparelho / emulador: medium phone
 
 | Teste | O que foi feito                                                        | Resultado observado              | Status   |
-|-------|------------------------------------------------------------------------|----------------------------------|   OK     |
+|-------|------------------------------------------------------------------------:|----------------------------------:|---------------:|
 | T1    | Abrir o catálogo com internet e selecionar um produto                  | Teste saiu como esperado         |   OK     |
 | T2    | Sem rede, tocar em Atualizar; religar e tocar em Tentar novamente      | Teste saiu como esperado         |   OK     |
 | T3    | Adicionar o mesmo produto duas vezes e abrir Minha lista               | Teste saiu como esperado         |   OK     |
