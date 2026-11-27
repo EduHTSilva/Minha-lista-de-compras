@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+
 import 'data/lista_compras_repository.dart';
 import 'models/produto_remoto.dart';
 import 'screens/configuracoes_page.dart';
